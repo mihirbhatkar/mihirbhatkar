@@ -1,9 +1,8 @@
 # Hey there 👋, I'm Mihir
 
-#### I am a final year computer engineering student from India. I aim to become a very good programmer and a software engineer.
+#### I am a final year computer engineering student from India.
 
-- 🔭 I’m currently working on `stackSense`, an expense tracker application made with the MERN stack
-- 🌱 I’m currently learning JavaScript fundamentals and it's frameworks
+- 🌱 I’m currently delving into Typescript and Golang for fun
 - 🤝 I would be glad to contribute to open source projects
 
 ### 💻 Tech Stack:
